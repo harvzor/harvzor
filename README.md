@@ -10,3 +10,4 @@
 - [umbraco helper extension](https://github.com/Harvzor/Umbraco-Helper-Extension) - productivity boosting Umbraco CMS browser extension
 - [artists name plates](https://artistsnameplates.co.uk) - online store for ordering custom made name plates for paintaings
 - Scrobbler - [an API built with Rust](https://github.com/Harvzor/scrobbler-server), [an Arduino (ESP32) programmed with MicroPython](https://github.com/Harvzor/scrobbler-arduino) and [a UI built with TypeScript/React](https://github.com/Harvzor/scrobbler-ui), all for the purpose of tracking things (known as "scrobbling")
+- [PhotoPrism Scripts](https://github.com/Harvzor/photoprism-scripts) - a bunch of scripts written in Node.js aimed at adding functionality that PhotoPrism should probably already have
