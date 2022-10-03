@@ -10,4 +10,4 @@
 - [umbraco helper extension](https://github.com/Harvzor/Umbraco-Helper-Extension) - productivity boosting Umbraco CMS browser extension
 - [artists name plates](https://artistsnameplates.co.uk) - online store for ordering custom made name plates for paintaings
 - [Fitogram.Knowable](https://github.com/fitogram/Fitogram.Knowable) - a wrapper that allows C# enums to know if a value being serialised (likely sent from an external program) can be matched with an internal enum value, super useful for APIs and other JSON related things
-- [PhotoPrism Scripts](https://github.com/Harvzor/photoprism-scripts) - a bunch of scripts written in Node.js aimed at adding functionality that PhotoPrism should probably already have
+- [Godot Gravity Bodies](https://github.com/Harvzor/godot-gravity-bodies) - a plugin for Godot which adds support for realistic point gravity physics
