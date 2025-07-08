@@ -5,6 +5,7 @@
 ### Websites 🕸️
 
 - [customstart.page](https://github.com/custom-start-page/customstart.page) - customisable startpages for your browser
+- [decksplain.github.io](https://decksplain.github.io/) - card game rules in a printable format
 - Scrobbler - [an API built with Rust](https://github.com/Harvzor/scrobbler-server), [an Arduino (ESP32) programmed with MicroPython](https://github.com/Harvzor/scrobbler-arduino) and [a UI built with TypeScript/React](https://github.com/Harvzor/scrobbler-ui), all for the purpose of tracking things (known as "scrobbling")
 - [Portfolio](https://github.com/Harvzor/portfolio) - my personal website and blog
 - [Artists Name Plates](https://artistsnameplates.co.uk) - online store for ordering custom made name plates for paintings
